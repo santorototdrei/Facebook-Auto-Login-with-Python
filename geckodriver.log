@@ -1,0 +1,146 @@
+1593264917634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVKhAlF"
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.531: Theme parsing error: gtk.css:559:1: Expected a valid selector
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.533: Theme parsing error: gtk.css:1148:2: Expected semicolon
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.535: Theme parsing error: gtk.css:1489:27: Expected a valid selector
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.536: Theme parsing error: gtk.css:1618:15: 'bborder-color' is not a valid property name
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.536: Theme parsing error: gtk.css:1622:20: Expected a valid selector
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.537: Theme parsing error: gtk.css:1988:15: 'bborder-color' is not a valid property name
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.542: Theme parsing error: gtk.css:4363:2: Expected semicolon
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.545: Theme parsing error: gtk.css:4994:2: Junk at end of value for border-radius
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.550: Theme parsing error: gtk.css:6305:26: Expected a valid selector
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.553: Theme parsing error: gtk.css:7321:26: Expected a valid selector
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.556: Theme parsing error: gtk.css:8201:64: Junk at end of value for background-image
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.558: Theme parsing error: gtk.css:8820:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.558: Theme parsing error: gtk.css:8820:55: Missing closing bracket at end of linear gradient
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.559: Theme parsing error: gtk.css:8933:19: not a number
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.559: Theme parsing error: gtk.css:8951:15: 'bcbcbc' is not a valid color name
+
+(firefox:15943): Gtk-WARNING **: 21:35:18.568: Theme parsing error: gtk.css:10394:20: Not a valid image
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.386: Theme parsing error: gtk.css:559:1: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.432: Theme parsing error: gtk.css:1148:2: Expected semicolon
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.433: Theme parsing error: gtk.css:1489:27: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.434: Theme parsing error: gtk.css:1618:15: 'bborder-color' is not a valid property name
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.434: Theme parsing error: gtk.css:1622:20: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.435: Theme parsing error: gtk.css:1988:15: 'bborder-color' is not a valid property name
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.443: Theme parsing error: gtk.css:4363:2: Expected semicolon
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.449: Theme parsing error: gtk.css:4994:2: Junk at end of value for border-radius
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.452: Theme parsing error: gtk.css:6305:26: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.455: Theme parsing error: gtk.css:7321:26: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.457: Theme parsing error: gtk.css:8201:64: Junk at end of value for background-image
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.459: Theme parsing error: gtk.css:8820:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.459: Theme parsing error: gtk.css:8820:55: Missing closing bracket at end of linear gradient
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.460: Theme parsing error: gtk.css:8933:19: not a number
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.460: Theme parsing error: gtk.css:8951:15: 'bcbcbc' is not a valid color name
+
+(/usr/lib/firefox/firefox:16042): Gtk-WARNING **: 21:35:27.465: Theme parsing error: gtk.css:10394:20: Not a valid image
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.072: Theme parsing error: gtk.css:559:1: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.074: Theme parsing error: gtk.css:1148:2: Expected semicolon
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.076: Theme parsing error: gtk.css:1489:27: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.077: Theme parsing error: gtk.css:1618:15: 'bborder-color' is not a valid property name
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.077: Theme parsing error: gtk.css:1622:20: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.078: Theme parsing error: gtk.css:1988:15: 'bborder-color' is not a valid property name
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.085: Theme parsing error: gtk.css:4363:2: Expected semicolon
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.089: Theme parsing error: gtk.css:4994:2: Junk at end of value for border-radius
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.094: Theme parsing error: gtk.css:6305:26: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.110: Theme parsing error: gtk.css:7321:26: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.119: Theme parsing error: gtk.css:8201:64: Junk at end of value for background-image
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.122: Theme parsing error: gtk.css:8820:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.124: Theme parsing error: gtk.css:8820:55: Missing closing bracket at end of linear gradient
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.125: Theme parsing error: gtk.css:8933:19: not a number
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.127: Theme parsing error: gtk.css:8951:15: 'bcbcbc' is not a valid color name
+
+(/usr/lib/firefox/firefox:16090): Gtk-WARNING **: 21:35:28.130: Theme parsing error: gtk.css:10394:20: Not a valid image
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.787: Theme parsing error: gtk.css:559:1: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.790: Theme parsing error: gtk.css:1148:2: Expected semicolon
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.791: Theme parsing error: gtk.css:1489:27: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.792: Theme parsing error: gtk.css:1618:15: 'bborder-color' is not a valid property name
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.792: Theme parsing error: gtk.css:1622:20: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.794: Theme parsing error: gtk.css:1988:15: 'bborder-color' is not a valid property name
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.804: Theme parsing error: gtk.css:4363:2: Expected semicolon
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.807: Theme parsing error: gtk.css:4994:2: Junk at end of value for border-radius
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.813: Theme parsing error: gtk.css:6305:26: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.818: Theme parsing error: gtk.css:7321:26: Expected a valid selector
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.822: Theme parsing error: gtk.css:8201:64: Junk at end of value for background-image
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.824: Theme parsing error: gtk.css:8820:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.824: Theme parsing error: gtk.css:8820:55: Missing closing bracket at end of linear gradient
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.825: Theme parsing error: gtk.css:8933:19: not a number
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.825: Theme parsing error: gtk.css:8951:15: 'bcbcbc' is not a valid color name
+
+(/usr/lib/firefox/firefox:16150): Gtk-WARNING **: 21:35:30.837: Theme parsing error: gtk.css:10394:20: Not a valid image
+1593264933599	Marionette	INFO	Listening on port 45635
+1593264933652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJEn4/y2/l/en_US/JUVEr0kkpNo.js?_nc_x=AOwf7xJ4hdU, line 113: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJEn4/y2/l/en_US/JUVEr0kkpNo.js?_nc_x=AOwf7xJ4hdU, line 113: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iJEn4/y2/l/en_US/JUVEr0kkpNo.js?_nc_x=AOwf7xJ4hdU, line 113: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593265003765	Marionette	INFO	Stopped listening on port 45635
